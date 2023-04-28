@@ -1,0 +1,36 @@
+body {
+  background-color: burlywood;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(255, 43, 113);
+}
+
+p {
+  font-size: 20px;
+  margin: 10px 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-shadow: 1px 1px white;
+}
+a {
+  font-size: 20px;
+  margin: 10px 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serifS;
+  color: aliceblue;
+}
+
+.peace {
+  width: 20%;
+}
+
+footer {
+  color: black;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
